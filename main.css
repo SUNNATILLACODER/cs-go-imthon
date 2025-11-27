@@ -1,0 +1,163 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.header-head {
+    background-color: #272C3D;
+}
+
+.container {
+    min-width: 1200px;
+    width: 100%;
+    margin: 0;
+    padding: 20px 0;
+}
+
+.table {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 60px;
+}
+
+.texting {
+    color: #fff;
+    margin-left: 90px;
+}
+
+.texting:hover {
+    color: aqua;
+    transition: 0.5s;
+}
+
+.wrapper {
+    color: #FF9C28;
+}
+
+.wrapper:hover {
+    color: #f34005;
+    transition: 0.5s;
+}
+
+input {
+    width: 350px;
+    margin-left: 400px;
+    background-color: #404864;
+    border: none;
+    padding: 8px 0;
+    border-radius: 15px;
+    text-align: center;
+}
+
+select {
+    width: 160px;
+    background-color: #00000080;
+    border: none;
+    padding: 4px;
+    border-radius: 10px;
+    color: #fff;
+    margin-left: 160px;
+    margin-right: 30px;
+}
+
+.option-cs {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.local-text {
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+}
+
+body {
+    background-color:  #090909;
+}
+
+.src-clas {
+    width: 530px;
+    margin-top: 30px;
+}
+
+.buttn-clas {
+    margin-top: 40px;
+}
+
+h3 {
+    color: #fff
+}
+
+.type-text {
+    width: 340px;
+    color: #fff;
+    margin-top: 210px;
+    margin-left: 90px;
+
+}
+
+.like {
+    display: flex;
+    font-size: 20px
+}
+
+.img-type {
+    width: 600px;
+    margin-top: 190px;
+    margin-left: 390px;
+}
+
+.pgl-cls {
+    text-align: center;
+    margin-top: 190px;
+}
+
+.img-div {
+    width: 600px;
+    margin-left: 390px;
+}
+
+.div-table {
+    display: flex;
+    margin-top: 190px;
+}
+
+.type-div {
+    width: 340px;
+    color: #fff;
+    margin-top: 60px;
+    margin-left: 90px;
+    font-size: 20px;
+}
+
+.main-one {
+    background-color: #1B1E27;
+}
+
+.foter-img {
+    width: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.buttoning {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-right: 30px;
+
+}
+.foter-texting{
+    color: #fff;
+}
+.flex{
+    color: #FF9C28;
+}
+.slider{
+    background-color: #272C3D;
+}
